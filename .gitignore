@@ -1,0 +1,19 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Pesos do modelo YOLO (baixados automaticamente na execução)
+*.pt
+
+# Mídias locais, capturas e arquivos auxiliares de apoio ao aluno
+midia/
+resultados/
+ROTEIRO_VIDEO.md
+RELATORIO_TECNICO.md
+gerar_midia_teste.py

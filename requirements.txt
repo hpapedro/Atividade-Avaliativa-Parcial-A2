@@ -1,0 +1,14 @@
+# ==============================================================================
+# Dependências do Projeto - Sistema de Monitoramento de Ocupação de Salas
+# Computação Visual com OpenCV e YOLOv8
+# ==============================================================================
+
+# Biblioteca obrigatória para captura, pré-processamento e exibição de vídeo/imagens
+opencv-python>=4.8.0
+
+# Framework Ultralytics para execução do modelo pré-treinado YOLOv8
+ultralytics>=8.0.0
+
+# Biblioteca para operações matriciais e cálculo de estatísticas em tempo real
+numpy>=1.24.0
+
